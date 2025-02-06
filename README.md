@@ -24,6 +24,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taciopcfarias/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taciopcfarias@gmail.com)
 
-![snake gif](https://github.com/YOUR_USERNAME/taciopcfarias/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/taciopcfarias/taciopcfarias/blob/output/github-contribution-grid-snake.svg)
 
 
