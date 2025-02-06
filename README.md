@@ -25,7 +25,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taciopcfarias@gmail.com)
 
 
-### 🐍 Minhas contribuições
-![Snake animation](https://github.com/taciopcfarias/taciopcfarias/blob/output/github-contribution-grid-snake.svg)
-
 
